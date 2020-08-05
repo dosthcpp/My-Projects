@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T05:10:54.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="mA5E3RI_nk8gPwoJ4ck1" version="13.5.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-05T05:11:54.617Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="RUnSsr06omXqt3CIvC5G" version="13.5.9" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="303" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_5OAGe97bpap3oaQ18Kr" name="Page-2">
-    <mxGraphModel dx="1818" dy="2006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1495" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Jn6X8U36RHpzR_EdLx2H-0" />
         <mxCell id="Jn6X8U36RHpzR_EdLx2H-1" parent="Jn6X8U36RHpzR_EdLx2H-0" />
@@ -270,8 +270,8 @@
             <mxPoint x="246" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="22Enb_b1Fq2Z85dF0i7O-53" value="Output: Agreement list" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jn6X8U36RHpzR_EdLx2H-1">
-          <mxGeometry x="182" y="725" width="204" height="20" as="geometry" />
+        <mxCell id="22Enb_b1Fq2Z85dF0i7O-53" value="Output: an Agreement found by ID" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jn6X8U36RHpzR_EdLx2H-1">
+          <mxGeometry x="183" y="725" width="204" height="20" as="geometry" />
         </mxCell>
         <mxCell id="22Enb_b1Fq2Z85dF0i7O-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Jn6X8U36RHpzR_EdLx2H-1">
           <mxGeometry x="406" y="701" width="320" height="50" as="geometry" />
@@ -312,7 +312,7 @@
             <mxPoint x="960" y="681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="22Enb_b1Fq2Z85dF0i7O-63" value="Output: consent to the agreement" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jn6X8U36RHpzR_EdLx2H-1">
+        <mxCell id="22Enb_b1Fq2Z85dF0i7O-63" value="Output: consent to the agreement&lt;br&gt;(bool)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jn6X8U36RHpzR_EdLx2H-1">
           <mxGeometry x="896" y="726" width="204" height="20" as="geometry" />
         </mxCell>
         <mxCell id="22Enb_b1Fq2Z85dF0i7O-64" value="Callback: list&lt;span style=&quot;text-align: center&quot;&gt;Agreement&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jn6X8U36RHpzR_EdLx2H-1">
