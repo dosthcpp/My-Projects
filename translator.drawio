@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T04:52:39.079Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" version="14.4.3" etag="PcvzT7x2AnwjPaqG7VRP" type="github"><diagram id="7IGtVgqkvwjcG1pffp4t">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-26T05:09:22.318Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="KJ3QypuyLAWeixAt5DIY" version="14.4.3" type="github">
+  <diagram id="7IGtVgqkvwjcG1pffp4t" name="Page-1">
+    <mxGraphModel dx="521" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Kp8d5jk8vqucWb8TFG-c-1" value="Application(Flutter)" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Kp8d5jk8vqucWb8TFG-c-2" value="Server(Node.js)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kp8d5jk8vqucWb8TFG-c-3" value="" style="endArrow=classic;html=1;entryX=0.292;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.331;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="229.2" as="sourcePoint" />
+            <mxPoint x="420.39" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kp8d5jk8vqucWb8TFG-c-6" value="빅데이터 기반&lt;br&gt;사투리 API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="150" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kp8d5jk8vqucWb8TFG-c-7" value="" style="endArrow=classic;html=1;fontSize=13;entryX=-0.016;entryY=0.374;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274" y="128" as="sourcePoint" />
+            <mxPoint x="373.0799999999999" y="128.44000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kp8d5jk8vqucWb8TFG-c-8" value="TTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="375" y="184" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Kp8d5jk8vqucWb8TFG-c-9" value="" style="endArrow=classic;html=1;fontSize=13;entryX=0.652;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="163" as="sourcePoint" />
+            <mxPoint x="449.5400000000001" y="229.2800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kp8d5jk8vqucWb8TFG-c-10" value="Translated Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="455" y="179" width="65" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
